@@ -4,6 +4,14 @@ title: Daily Posts
 permalink: /dailyposts/
 image: 11.jpg
 ---
-This page includes (nearly) daily posts about my observations and thoughts on anything.
+### Respect through Conversations
 
-[December 2019](19Dec.md)
+Most of our days will probably be dull, marked by sudden thrills and moments of sadness.
+
+Consider the conversations you have throughout the day. Of course, context matters. But a main thread applies: your engagement.
+
+Listening intently, asking questions, seeking to understand. These traits come few and far between. Granted, it's not always easy, nor do we always feel the need to execute such attentiveness.
+
+Regardless, people notice how you attend to conversations. The choice is yours.
+
+###### December 30, 2019
