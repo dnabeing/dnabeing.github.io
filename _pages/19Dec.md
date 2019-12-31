@@ -1,5 +1,5 @@
 ---
-layout: dailyposts
+layout: page
 title: December 2019
 permalink: /dailyposts/Dec2019
 image: 11.jpg
