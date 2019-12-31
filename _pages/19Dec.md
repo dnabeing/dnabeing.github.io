@@ -1,7 +1,7 @@
 ---
 layout: page
 title: December 2019
-permalink: /dailyposts/19Dec.md
+permalink: /19Dec.md/
 image: 11.jpg
 ---
 ### Respect through Conversations
