@@ -1,26 +1,19 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-05-29 18:05:55 +0300
-image:  11.jpg
-tags:   [Jekyll]
+title:  "Welcome to Day to Day Insights!"
+date:   2020-01-10 15:24:55 +0300
+image:  about-page.jpg
+tags:   [About]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Welcome to a blog about what it's like being an engineering student. From the lows of not getting accepted to certain colleges to the highs of getting multiple internship offers, this blog covers (or will cover) subjects that many high schoolers, parents, and college students seek to understand more.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I'm a second-year undergrad studying aerospace engineering and computer programming. When I was in high school, my parents didn't know what the SATs were, so I had to mostly figure out the college admission process on my own. I navigated through these challenging times by asking for help or looking for it on the internet. That's where I hope to serve you, as a college mentor with first-hand experience in the 21st century.
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+This blog is made up of two main sections: [posts](https://dnabeing.github.io//) and [daily posts](https://dnabeing.github.io//dailyposts/).
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Expect to see a new post once a month. The daily posts, on the other hand, are posted more regularly (not quite daily, but with enough recurrences).
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+If you are interested in this blog and find it useful, feel free to bookmark the home page, follow me on [Twitter](https://twitter.com/dnabeing), and share.
+
+Best of luck on your college journey!
