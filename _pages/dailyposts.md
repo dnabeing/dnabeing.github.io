@@ -2,7 +2,7 @@
 layout: page
 title: Daily Posts
 permalink: /dailyposts/
-image: 12.jpg
+image: daily-posts-page.jpg
 ---
 ### Respect through Conversations
 
